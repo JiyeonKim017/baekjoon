@@ -1,0 +1,4 @@
+힌트 보고 맞췄음...;;
+map( funtion, iterator ) : 여러 개의 데이터를 받아 각각의 요소에 함수를 적용한 결과 반환
+답 : a, b = map(int, input().split())
+input().split() 결과를 int로 저장하기
